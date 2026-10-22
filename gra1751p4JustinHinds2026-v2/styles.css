@@ -1,0 +1,302 @@
+@charset "utf-8";
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #dccaa4;
+
+
+
+    background-image: url(images/gra1751p4JustinHinds2026
+.psd(store).png);
+    background-image: url(images/gra1751p4JustinHinds2026(news)
+.png);
+}
+wrapper {
+    width: 1366px;
+    margin: 0 auto;
+    display: block;
+    background-color: #dccaa4;
+
+    background-image: url(images/gra1751p4JustinHinds2026(privacy)
+.png);
+}
+header {
+    height: 150px;
+    background-color: #FFFFFF;
+}
+footer {
+    padding: 16px;
+    font-size: 12px;
+    font-family: "evert-pe-vf", sans-serif;
+    background-color: rgba(86,60,47,1.00);
+    color: #fff;
+}
+nav {
+    background-color: #E8BC51;
+}
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+ul a li {
+    display: inline-block;
+    padding: 16px 24px;
+    font-size: 20px;
+    color: #fff;
+
+
+
+    font-family: font-family
+: "evert-pe-vf", sans-serif;
+: "evert-pe-vf", sans-serif;;
+    font-family: font-family
+: "evert-pe-vf", sans-serif;
+: "evert-pe-vf", sans-serif;;
+    font-family: "evert-pe-vf", sans-serif;
+}
+ul a li:hover  {
+    background-color: #db5e17;
+}
+#privacy {
+
+}
+#concertz {
+    margin-top: 0px;
+    margin-right: 1px;
+    margin-left: 488px;
+    margin-bottom: 0px;
+    font-family: Bangers;
+}
+#concerts {
+}
+#home {
+}
+#videos {
+}
+#feelgoodinc {
+    margin: 0px;
+    padding: 13px 24px;
+}
+#clinteastwood {
+    margin: 0px;
+    padding: 13px 24px;
+}
+#melancholyhill {
+    margin: 0px;
+    padding: 13px 24px;
+}
+#saturnzbarz {
+    padding-top: 13px;
+    padding-right: 24px;
+    padding-left: 59px;
+    padding-bottom: 13px;
+    margin: 0px;
+}
+#humility {
+    padding: 13px 24px;
+    margin: 0px;
+}
+#pacman {
+    padding: 13PX 24PX;
+    margin-top: 8PX;
+    margin-right: 8PX;
+    margin-left: 8PX;
+    margin-bottom: 8PX;
+}
+#crackerislandvid {
+    padding: 13px 24px;
+    margin: 0px;
+}
+#themountainvid {
+    padding: 13px 24px;
+    margin: 0px;
+}
+#videotext {
+    font-family: Bangers;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+
+#privatetext {
+    font-family: "evert-pe-vf", sans-serif;
+    background-color: #fff;
+}
+#phototext {
+    padding-top: 12px;
+    padding-right: 3px;
+    padding-left: 524px;
+    padding-bottom: 12px;
+    font-family: Bangers;
+}
+#hometext {
+    font-family: Bangers;
+    padding-top: 0px;
+    padding-right: 21px;
+    padding-left: 270px;
+    padding-bottom: 6px;
+    font-size: 62px;
+}
+#newstext {
+    padding-top: 12px;
+    padding-right: 108px;
+    padding-left: 564px;
+    padding-bottom: 12px;
+    font-family: Bangers;
+    font-size: 62px;
+}
+
+#homeimage {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+}
+
+
+
+#photos {
+}
+#logo {
+    margin-top: -226px;
+    margin-right: 73px;
+    margin-left: 468px;
+    margin-bottom: 79px;
+}
+#news {
+}
+#newsimage1 {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 18px;
+    margin: 3px 4px;
+}
+#newstext2 {
+    font-family: Bangers;
+    margin-top: -19PX;
+    margin-right: 4PX;
+    margin-left: 106PX;
+    margin-bottom: 33PX;
+}
+#newstext2:hover {
+
+}
+#newstext3 {
+    padding-top: 0px;
+    padding-right: 4px;
+    padding-left: 854px;
+    padding-bottom: 0px;
+    font-family: Bangers;
+}
+#newsimage2 {
+    padding-top: 3px;
+    padding-right: 4px;
+    padding-left: 173px;
+    padding-bottom: 21px;
+}
+
+#newstext3:hover {
+    color: #db5e17;
+}
+#albumtext {
+    font-family: "evert-pe-vf", sans-serif;
+    background-color: #d90025;
+    color: #fff;
+    font-size: 22px;
+}
+#demondays {
+    margin-top: 0px;
+    margin-right: 2px;
+    margin-left: 380px;
+    margin-bottom: 0px;
+
+}
+#selftitled {
+    margin-top: 0px;
+    margin-right: 3px;
+    margin-left: 288px;
+    margin-bottom: 0px;
+}
+#storetext {
+    margin-top: 0px;
+    margin-right: 2px;
+    margin-left: 633px;
+    margin-bottom: 0px;
+    font-family: bangers;
+}
+#mailtext {
+    margin-top: 2px;
+    margin-right: 0px;
+    margin-left: 494px;
+    margin-bottom: 2px;
+    font-family: bangers;
+}
+#signhere {
+    padding-top: 106px;
+    padding-right: 3px;
+    padding-left: 492px;
+    padding-bottom: 138px;
+    font-family: "evert-pe-vf", sans-serif;
+    color: #fff;
+    background-color: #000;
+}
+#signhere:hover {
+    color: #db5e17;
+}
+#merchtext {
+    background-color: #d90025;
+    font-family: "evert-pe-vf", sans-serif;
+    font-size: 22px;
+    color: #fff;
+}
+#themountaintshirt {
+    padding-top: 0px;
+    padding-right: 3px;
+    padding-left: 11px;
+    padding-bottom: 0px;
+}
+#lastlivingsoulstshirt {
+    padding-top: 0px;
+    padding-right: 3px;
+    padding-left: 8px;
+    padding-bottom: 0px;
+}
+#blogtext {
+    padding-top: 0px;
+    padding-right: 3px;
+    padding-left: 620px;
+    padding-bottom: 0px;
+    font-family: Bangers;
+}
+#blogtext2 {
+    padding-top: 0px;
+    padding-right: 3px;
+    padding-left: 591px;
+    padding-bottom: 0px;
+    font-family: "evert-pe-vf", sans-serif;
+}
+#blogtext3 {
+    padding-top: 0px;
+    padding-right: 3px;
+    padding-left: 888px;
+    padding-bottom: 0px;
+    font-family: "evert-pe-vf", sans-serif;
+}
+#blogtext3:hover {
+    color: #db5e17;
+}
+#blogtext4 {
+    padding-top: 0px;
+    padding-right: 3px;
+    padding-left: 679px;
+    padding-bottom: 0px;
+    font-family: "evert-pe-vf", sans-serif;
+    font-size: 40px;
+}
+#blogtext4:hover {
+    color: #db5e17;
+}
